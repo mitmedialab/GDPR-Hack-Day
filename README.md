@@ -2,7 +2,7 @@
 
 > May 24, 2018 from 11:30 AM - 4:30 PM and the MIT Media Lab, Room 514b
 
-> Event URL: [GDPRHackDay.org](https://gdprhackday.org)
+> Event URL: [GDPRHackDay.org](http://gdprhackday.org)
 
 ### Description
 
