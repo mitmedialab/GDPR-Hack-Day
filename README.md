@@ -8,7 +8,7 @@ We will hold a joint panel discussion with the “Privacy Information: explanati
 * At the [MIT Media Lab](https://www.media.mit.edu/contact/directions.html) in Room 514b and adjoining window foyer breakout group space.
 * Event URL: [GDPRHackDay.org](http://gdprhackday.org)
 
-*To request an invitation reach out to: [http://law.mit.edu/contact](http://law.mit.edu/contact)*
+*To request an invitation reach out to: [law.MIT.edu/Contact](https://law.mit.edu/contact)*
 
 ## Event Overview and Agenda
 
@@ -74,6 +74,9 @@ Participants are invited to continue the conversation on personal data ownership
 
 > FlashTalk Description: Personal identity involves more than money can buy, but it’s also part of an emerging digital asset class. The rise of “smart” phones, homes and cities accelerated by blockchain, smart contracts and mass-automation offer new modes for control, methods for valuation and mechanisms for exchange of key rights to this new asset type. What are the key issues, options, and opportunities for innovative FinTech products, services and markets arising from this new digital asset class?
 > Presenter: [Dazza Greenwood](http://dazzagreenwood.com), CIVICS.com
+
+![fintechconnect 800 x 800 4](https://user-images.githubusercontent.com/2357755/40252211-a694f7ca-5aa9-11e8-857c-51dd93f9256e.png)
+
 
 -------
 
