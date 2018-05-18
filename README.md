@@ -1,6 +1,6 @@
 # GDPR Hack Day at MIT Media Lab
 
-> May 24, 2018 from 11:30 AM - 4:30 PM and the MIT Media Lab, Room 514b
+> May 24, 2018 from 11:30 AM - 4:30 PM and the [MIT Media Lab, Room 514b](https://www.media.mit.edu/contact/directions.html)
 
 > Event URL: [GDPRHackDay.org](http://gdprhackday.org)
 
