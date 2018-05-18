@@ -23,7 +23,7 @@ We will hold a join session with the "Privacy Information: explanations in algor
  
 > Privacy Information: explanations in algorithmic systems
 > * Host: Nicolo Zingales (From London)
-> * Thomas Hardjono, MIT (from MIT), OPAL project
+> * Thomas Hardjono, (from MIT), OPAL project
 > * Vaishak Belle, University of Edinburgh (From London)
 > * Reuben Binns, Oxford University (From London)
 > * Paolo Missier, University of Newcastle (From London)
@@ -42,7 +42,7 @@ We will review and discuss projects and technologies designed to achieve one or 
 
 * **Quantitative Collective Decision-Making Applied to the Law and GDPR**
 
-> Demo Leader Nick Naraghi, Co-Founder of [TeamMachine](http://TeamMachine.ai), will discuss how real-time, data-driven systems can be applied to measure the performance and effectiveness of law and regulation using the GDPR as an anchor example.  We will explore how law and policy makers can evaluate success of GDPR implementation and how individuals can use quantitative collective decision making for tracking and measuring how their data is being used, discovery of best practices for personal data management and comparing how they stand across different services and providers.  
+> Demo Leader [Nick Naraghi](https://www.linkedin.com/in/nicknaraghi), Co-Founder of [TeamMachine](http://TeamMachine.ai), will discuss how real-time, data-driven systems can be applied to measure the performance and effectiveness of law and regulation using the GDPR as an anchor example.  We will explore how law and policy makers can evaluate success of GDPR implementation and how individuals can use quantitative collective decision making for tracking and measuring how their data is being used, discovery of best practices for personal data management and comparing how they stand across different services and providers.  
 
 --------------------
 
