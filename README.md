@@ -19,7 +19,7 @@ Join legal and technology thought leaders to learn about and discuss the General
 
 ### 12:00 PM to 1:30 PM - Brown-Bag Lunch Join Session With London GDPR Event
 
-We will hold a join session with the "Privacy Information: explanations in algorithmic systems"
+We will hold a joint panel discussion with the "Privacy Information: explanations in algorithmic systems"
  session of the [Data Control: Data Portability & Privacy Information Rights](https://www.eventbrite.co.uk/e/data-control-data-portability-privacy-information-rights-tickets-43312231049) sister event happening in London, UK.
  
 > Privacy Information: explanations in algorithmic systems
@@ -29,7 +29,7 @@ We will hold a join session with the "Privacy Information: explanations in algor
 > * Reuben Binns, Oxford University (From London)
 > * Paolo Missier, University of Newcastle (From London)
  
-NOTE: Participants are invited to bring a brown bag lunch to this session.  Lunch options are available at and nearby the MIT Media Lab to bring to this brown-bag lunch session.  
+NOTE: Participants are invited to bring a brown bag lunch to this session.  Lunch options are available at and nearby the MIT Media Lab 
 
 --------------------
 
@@ -61,13 +61,16 @@ We will break into smaller groups to pursue more focused discussions and project
 
 ----------
 
-## 6:00 PM to 6:45 PM - Optional Venture Cafe FinTechConnect Session
+# OPTIONAL FinTech Connect Session
+
+### 6:00 PM to 6:45 PM - Venture Cafe FinTechConnect Flash Talk
 
 Participants are invited to continue the conversation on personal data ownership at the [Venture Cafe FinTech Connect "FlashTalk"](http://vencaf.org/fintechconnect) at 1 Braodway, Cambridge MA (2 blocks from the MIT Media Lab).  
 
-> FlashTalk Title: Identity and Personal Data as an Asset Class 
+> **FlashTalk Title: Identity and Personal Data as an Asset Class**
+
 > FlashTalk Description: Personal identity involves more than money can buy, but it’s also part of an emerging digital asset class. The rise of “smart” phones, homes and cities accelerated by blockchain, smart contracts and mass-automation offer new modes for control, methods for valuation and mechanisms for exchange of key rights to this new asset type. What are the key issues, options, and opportunities for innovative FinTech products, services and markets arising from this new digital asset class?
-> Presenter: [Dazza Greenwood](http://dazzagreenwood.com), CIVICS
+> Presenter: [Dazza Greenwood](http://dazzagreenwood.com), CIVICS.com
 
 -------
 
