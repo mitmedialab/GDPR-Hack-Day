@@ -1,12 +1,13 @@
 # GDPR Hack Day at MIT Media Lab
 
 > May 24, 2018 from 11:30 AM - 4:30 PM and the [MIT Media Lab, Room 514b](https://www.media.mit.edu/contact/directions.html)
-
 > Event URL: [GDPRHackDay.org](http://gdprhackday.org)
 
-## Event Description and Agenda
-
 Join legal and technology thought leaders to learn about and discuss the General Data Privacy Regulation.  
+
+*To request an invitation reach out to: [http://law.mit.edu/contact](http://law.mit.edu/contact)*
+
+## Event Overview and Agenda
 
 --------------------
 
@@ -72,8 +73,7 @@ Participants are invited to continue the conversation on personal data ownership
 
 ### For More Information
 
-For more information on GDPR, see: [http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) and the GDPR WikiPedia entry at: [https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+* For more information on GDPR, see: [http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) and the GDPR WikiPedia entry at: [https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 
-For a link list or potentially relevant tools and projects, see: [https://github.com/mitmedialab/GDPR-Hack-Day/blob/master/link-list.md](https://github.com/mitmedialab/GDPR-Hack-Day/blob/master/link-list.md)
+* For a link list or potentially relevant tools and projects, see: [https://github.com/mitmedialab/GDPR-Hack-Day/blob/master/link-list.md](https://github.com/mitmedialab/GDPR-Hack-Day/blob/master/link-list.md)
 
-To request an invitation reach out to: [http://law.mit.edu/contact](http://law.mit.edu/contact)
