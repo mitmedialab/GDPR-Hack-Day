@@ -80,7 +80,7 @@ Participants are invited to continue the conversation on personal data ownership
 
 -------
 
-# For More Information
+# For More Information on GDPR
 
 * For more information on GDPR, see: [http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) and the GDPR WikiPedia entry at: [https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 
