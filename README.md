@@ -38,11 +38,11 @@ We will review and discuss projects and technologies designed to achieve one or 
 
 * **Open API for People to Exerise Rights Under GDPR**
 
-> Review of the [OpenGDPR](https://opengdpr.org) project, available at [https://github.com/opengdpr/opengdpr](https://github.com/opengdpr/opengdpr)
+Review of the [OpenGDPR](https://opengdpr.org) project, available at [https://github.com/opengdpr/opengdpr](https://github.com/opengdpr/opengdpr)
 
 * **Quantitative Collective Decision-Making Applied to the Law and GDPR**
 
-> Demo Leader [Nick Naraghi](https://www.linkedin.com/in/nicknaraghi), Co-Founder of [TeamMachine](http://TeamMachine.ai), will discuss how real-time, data-driven systems can be applied to measure the performance and effectiveness of law and regulation using the GDPR as an anchor example.  We will explore how law and policy makers can evaluate success of GDPR implementation and how individuals can use quantitative collective decision making for tracking and measuring how their data is being used, discovery of best practices for personal data management and comparing how they stand across different services and providers.  
+[Nick Naraghi](https://www.linkedin.com/in/nicknaraghi), Co-Founder of [TeamMachine](http://TeamMachine.ai), will demo how real-time, data-driven systems can be applied to measure the performance and effectiveness of law and regulation using the GDPR as an anchor example.  We will explore how law and policy makers can evaluate success of GDPR implementation and how individuals can use quantitative collective decision making for tracking and measuring how their data is being used, discovery of best practices for personal data management and comparing how they stand across different services and providers.  
 
 --------------------
 
