@@ -77,6 +77,11 @@ Participants are invited to continue the conversation on personal data ownership
 
 ![fintechconnect 800 x 800 4](https://user-images.githubusercontent.com/2357755/40252211-a694f7ca-5aa9-11e8-857c-51dd93f9256e.png)
 
+--------
+
+## We are pleased to collaborate with Boston Legal Hackers on this event!
+
+<img width="596" alt="screen shot 2018-05-18 at 2 55 56 pm" src="https://user-images.githubusercontent.com/2357755/40253091-75cafcfe-5aac-11e8-9ea1-c32422fba943.png">
 
 -------
 
