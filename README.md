@@ -11,13 +11,13 @@ Join legal and technology thought leaders to learn about and discuss the General
 
 --------------------
 
-**11:30 AM to 12:00 PM - Welcome and Introductions**
+### 11:30 AM to 12:00 PM - Welcome and Introductions
 
 [Dazza Greenwood](http://law.mit.edu/dazza), of the MIT Media Lab, will facilitate the welcome and introductions.
 
 --------------------
 
-**12:00 PM to 1:30 PM - Brown-Bag Lunch Join Session With London GDPR Event**
+### 12:00 PM to 1:30 PM - Brown-Bag Lunch Join Session With London GDPR Event
 
 We will hold a join session with the "Privacy Information: explanations in algorithmic systems"
  session of the [Data Control: Data Portability & Privacy Information Rights](https://www.eventbrite.co.uk/e/data-control-data-portability-privacy-information-rights-tickets-43312231049) sister event happening in London, UK.
@@ -33,7 +33,7 @@ NOTE: Participants are invited to bring a brown bag lunch to this session.  Lunc
 
 --------------------
 
-**1:30 PM to 2:30 PM - Technology Capabilities Providing GDPR Solutions**
+### 1:30 PM to 2:30 PM - Technology Capabilities Providing GDPR Solutions
 
 We will review and discuss projects and technologies designed to achieve one or more requirements of the GDPR:
 
@@ -47,21 +47,21 @@ Review of the [OpenGDPR](https://opengdpr.org) project, available at [https://gi
 
 --------------------
 
-**2:30 PM to 3:45 PM - Small Group Discussion and Projects
+### 2:30 PM to 3:45 PM - Small Group Discussion and Projects
 
 We will break into smaller groups to pursue more focused discussions and projects based on interests of participants.
 
 --------------------
 
-**3:45 PM to 4:15 PM - Small Group Report Outs and Large Group Discussion
+### 3:45 PM to 4:15 PM - Small Group Report Outs and Large Group Discussion
 
 --------------------
 
-**4:30 PM - Adjourn MIT Media Lab Event
+### 4:30 PM - Adjourn MIT Media Lab Event
 
 ----------
 
-**6:00 PM to 6:45 PM - Optional Venture Cafe FinTechConnect Session
+## 6:00 PM to 6:45 PM - Optional Venture Cafe FinTechConnect Session
 
 Participants are invited to continue the conversation on personal data ownership at the [Venture Cafe FinTech Connect "FlashTalk"](http://vencaf.org/fintechconnect) at 1 Braodway, Cambridge MA (2 blocks from the MIT Media Lab).  
 
@@ -71,7 +71,7 @@ Participants are invited to continue the conversation on personal data ownership
 
 -------
 
-### For More Information
+# For More Information
 
 * For more information on GDPR, see: [http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) and the GDPR WikiPedia entry at: [https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 
