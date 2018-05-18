@@ -1,8 +1,11 @@
 # GDPR Hack Day at MIT Media Lab
 
-Join legal and technology thought leaders to learn about and discuss the General Data Privacy Regulation.  
+**Join business, legal and technology thought leaders to learn about and discuss the General Data Privacy Regulation.  This new European Law provides individuals strong ownership and control of their personal data through powerful new rights and other legal mechanisms.** 
 
-* May 24, 2018 from 11:30 AM - 4:30 PM and the [MIT Media Lab, Room 514b](https://www.media.mit.edu/contact/directions.html)
+We will hold a joint panel discussion with the “Privacy Information: explanations in algorithmic systems” session of the Data Control: Data Portability & Privacy Information Rights sister event happening at the same time in London, UK.  We will also review and discuss open source projects and emerging technologies designed to achieve one or more requirements of the GDPR. During the second part of the event we will break into smaller groups to pursue more focused discussions and project hacking based on interests of participants.  
+
+* May 24, 2018 from 11:30 AM - 4:30 PM 
+* At the [MIT Media Lab](https://www.media.mit.edu/contact/directions.html) in Room 514b and adjoining window foyer breakout group space.
 * Event URL: [GDPRHackDay.org](http://gdprhackday.org)
 
 *To request an invitation reach out to: [http://law.mit.edu/contact](http://law.mit.edu/contact)*
