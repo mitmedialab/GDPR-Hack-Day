@@ -1,14 +1,16 @@
-## GDPR Community Discussion and Creative Project Reviews
+# GDPR Hack Day at MIT Media Lab
 
 > May 24, 2018 from 11:30 AM - 4:30 PM and the MIT Media Lab, Room 514b
 
 > Event URL: [GDPRHackDay.org](http://gdprhackday.org)
 
-### Description
+## Event Description and Agenda
 
 Join legal and technology thought leaders to learn about and discuss the General Data Privacy Regulation.  
 
 **11:30 AM to 12:00 PM - Welcome and Introductions**
+
+[Dazza Greenwood](http://law.mit.edu/dazza), of the MIT Media Lab, will facilitate the welcome and introductions.
 
 **12:00 PM to 1:30 PM - Brown-Bag Lunch Join Session With London GDPR Event**
 
@@ -26,15 +28,25 @@ NOTE: Participants are invited to bring a brown bag lunch to this session.  Lunc
 
 **1:30 PM to 2:30 PM - Technology Capabilities Providing GDPR Solutions**
 
-We will review and discuss technology projects designed to achieve one or more requirements of the GDPR, including the [OpenGDPR](https://opengdpr.org) project, available at [https://github.com/opengdpr/opengdpr](https://github.com/opengdpr/opengdpr)
+We will review and discuss projects and technologies designed to achieve one or more requirements of the GDPR:
 
-**2:30 PM to 3:30 PM - Small Group Discussion and Projects
+* **Open API for People to Exerise Rights Under GDPR**
+
+> Review of the [OpenGDPR](https://opengdpr.org) project, available at [https://github.com/opengdpr/opengdpr](https://github.com/opengdpr/opengdpr)
+
+* **Quantitative Collective Decision-Making Applied to the Law and GDPR**
+
+> Demo Leader Nick Naraghi, Co-Founder of [TeamMachine](http://TeamMachine.ai), will discuss how real-time, data-driven systems can be applied to measure the performance and effectiveness of law and regulation using the GDPR as an anchor example.  We will explore how law and policy makers can evaluate success of GDPR implementation and how individuals can use quantitative collective decision making for tracking and measuring how their data is being used, discovery of best practices for personal data management and comparing how they stand across different services and providers.  
+
+**2:30 PM to 3:45 PM - Small Group Discussion and Projects
 
 We will break into smaller groups to pursue more focused discussions and projects based on interests of participants.
 
-**3:30 PM to 4:00 PM - Small Group Report Outs and Large Group Discussion
+**3:45 PM to 4:15 PM - Small Group Report Outs and Large Group Discussion
 
 **4:30 PM - Adjourn MIT Media Lab Event
+
+----------
 
 **6:00 PM to 6:45 PM - Optional Venture Cafe FinTechConnect Session
 
@@ -44,6 +56,7 @@ Participants are invited to continue the conversation on personal data ownership
 > FlashTalk Description: Personal identity involves more than money can buy, but it’s also part of an emerging digital asset class. The rise of “smart” phones, homes and cities accelerated by blockchain, smart contracts and mass-automation offer new modes for control, methods for valuation and mechanisms for exchange of key rights to this new asset type. What are the key issues, options, and opportunities for innovative FinTech products, services and markets arising from this new digital asset class?
 > Presenter: Dazza Greenwood, CIVICS
 
+-------
 
 ### For More Information
 
