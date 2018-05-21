@@ -2,7 +2,7 @@
 
 **Join business, legal and technology thought leaders to learn about and discuss the General Data Protection Regulation.  This new European Law provides individuals strong ownership and control of their personal data through powerful new rights and other legal mechanisms.** 
 
-We will hold a joint panel discussion with the “Privacy Information: explanations in algorithmic systems” session of the Data Control: Data Portability & Privacy Information Rights sister event happening at the same time in London, UK.  We will also review and discuss open source projects and emerging technologies designed to achieve one or more requirements of the GDPR. During the second part of the event we will break into smaller groups to pursue more focused discussions and project hacking based on interests of participants.  
+We will hold a joint panel discussion with the “explanations in algorithmic systems” session of the [Data Control: Data Portability & Privacy Information Rights](https://www.eventbrite.co.uk/e/data-control-data-portability-privacy-information-rights-tickets-43312231049) sister event happening at the same time in London, UK.  We will also review and discuss open source projects and emerging technologies designed to achieve one or more requirements of the GDPR. During the second part of the event we will break into smaller groups to pursue more focused discussions and project hacking based on interests of participants.  
 
 * May 24, 2018 from 11:30 AM - 4:30 PM 
 * At the [MIT Media Lab](https://www.media.mit.edu/contact/directions.html) in Room 514b and adjoining window foyer breakout group space.
