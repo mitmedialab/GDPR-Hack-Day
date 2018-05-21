@@ -10,7 +10,15 @@ We will hold a joint panel discussion with the “Privacy Information: explanati
 
 *To request an invitation reach out to: [law.MIT.edu/Contact](https://law.mit.edu/contact)*
 
-## Event Overview and Agenda
+--------------------
+
+# Event Livestream
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3Hgtcuqjn4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+--------------------
+
+# Event Overview and Agenda
 
 --------------------
 
@@ -84,6 +92,23 @@ Participants are invited to continue the conversation on personal data ownership
 <img width="596" alt="screen shot 2018-05-18 at 2 55 56 pm" src="https://user-images.githubusercontent.com/2357755/40253091-75cafcfe-5aac-11e8-9ea1-c32422fba943.png">
 
 -------
+
+# Telegram Group Chat
+
+* Service Site: [telegram.org](http://telegram.org)
+
+Join the law.MIT.edu Computational Law channel to stay in contact during the GDPR Hack Day.
+
+Download for iOS/Android at your friendly local app store.
+
+* Register using your mobile phone number (this is how you get your token)
+* In the settings, be sure to create an @user name and add a photo or other image so we can quickly spot you (or at least your avatar).
+* Join our chat channel at https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA
+* Turn off notifications 
+* Introduce yourself (name/affiliation, quick description of your background and interests and any relevant comments/questions/ideas on GDPR)
+
+
+---------
 
 # For More Information on GDPR
 
