@@ -1,6 +1,6 @@
 # GDPR Hack Day at MIT Media Lab
 
-**Join business, legal and technology thought leaders to learn about and discuss the General Data Privacy Regulation.  This new European Law provides individuals strong ownership and control of their personal data through powerful new rights and other legal mechanisms.** 
+**Join business, legal and technology thought leaders to learn about and discuss the General Data Protection Regulation.  This new European Law provides individuals strong ownership and control of their personal data through powerful new rights and other legal mechanisms.** 
 
 We will hold a joint panel discussion with the “Privacy Information: explanations in algorithmic systems” session of the Data Control: Data Portability & Privacy Information Rights sister event happening at the same time in London, UK.  We will also review and discuss open source projects and emerging technologies designed to achieve one or more requirements of the GDPR. During the second part of the event we will break into smaller groups to pursue more focused discussions and project hacking based on interests of participants.  
 
