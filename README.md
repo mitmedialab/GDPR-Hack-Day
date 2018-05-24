@@ -123,5 +123,7 @@ Download for iOS/Android at your friendly local app store.
 
 * For more information on GDPR, see: [http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) and the GDPR WikiPedia entry at: [https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 
+* PLAIN TEXT VERSION: [https://github.https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/1.%20Table%20of%20Contents.md](com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/1.%20Table%20of%20Contents.md)
+
 * For a link list or potentially relevant tools and projects, see: [https://github.com/mitmedialab/GDPR-Hack-Day/blob/master/link-list.md](https://github.com/mitmedialab/GDPR-Hack-Day/blob/master/link-list.md)
 
