@@ -52,7 +52,10 @@ We will review and discuss projects and technologies designed to achieve one or 
 
 * **Open API for People to Exerise Rights Under GDPR**
 
-Review of the [OpenGDPR](https://opengdpr.org) project, available at [https://github.com/opengdpr/opengdpr](https://github.com/opengdpr/opengdpr)
+Ben Hoxie of mParticle will provide a review of the [OpenGDPR](https://opengdpr.org) project, available at [https://github.com/opengdpr/opengdpr](https://github.com/opengdpr/opengdpr)
+
+![unnamed](https://user-images.githubusercontent.com/2357755/40492630-e92614b8-5f3e-11e8-89a0-a8b93d21f5aa.jpg)
+**Ben Hoxie, Product Management at mParticle**
 
 * **Quantitative Collective Decision-Making Applied to the Law and GDPR**
 
