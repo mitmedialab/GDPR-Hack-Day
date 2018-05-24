@@ -50,16 +50,20 @@ NOTE: Participants are invited to bring a brown bag lunch to this session.  Lunc
 
 We will review and discuss projects and technologies designed to achieve one or more requirements of the GDPR:
 
-* **Open API for People to Exerise Rights Under GDPR**
+#### Open API for People to Exerise Rights Under GDPR
 
 Ben Hoxie of mParticle will provide a review of the [OpenGDPR](https://opengdpr.org) project, available at [https://github.com/opengdpr/opengdpr](https://github.com/opengdpr/opengdpr)
 
 ![unnamed](https://user-images.githubusercontent.com/2357755/40492630-e92614b8-5f3e-11e8-89a0-a8b93d21f5aa.jpg)
+
 **Ben Hoxie, Product Management at mParticle**
 
-* **Quantitative Collective Decision-Making Applied to the Law and GDPR**
+#### Quantitative Collective Decision-Making Applied to the Law and GDPR
 
 [Nick Naraghi](https://www.linkedin.com/in/nicknaraghi), Co-Founder of [TeamMachine](http://TeamMachine.ai), will demo how real-time, data-driven systems can be applied to measure the performance and effectiveness of law and regulation using the GDPR as an anchor example.  We will explore how law and policy makers can evaluate success of GDPR implementation and how individuals can use quantitative collective decision making for tracking and measuring how their data is being used, discovery of best practices for personal data management and comparing how they stand across different services and providers.  
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnrttarCpkdBbQXjxZsq1dEuNATz93lY6sQtHrqMyHjEHoHu2HRZ1Ov3GtRwEeKyYUBZISreRQI20Q/embed?start=true&loop=true&delayms=10000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 --------------------
 
