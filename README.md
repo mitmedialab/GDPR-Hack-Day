@@ -8,6 +8,8 @@ We will hold a joint panel discussion with the “explanations in algorithmic sy
 * At the [MIT Media Lab](https://www.media.mit.edu/contact/directions.html) in Room 514b and adjoining window foyer breakout group space.
 * Event URL: [GDPRHackDay.org](http://gdprhackday.org)
 
+We will use the following online file for collaborative notes during the event: [https://hackmd.io/Ii2sZ6pvS1ykGdcdJJvBnw](https://hackmd.io/Ii2sZ6pvS1ykGdcdJJvBnw)         
+
 *To request an invitation reach out to: [law.MIT.edu/Contact](https://law.mit.edu/contact)*
 
 --------------------
